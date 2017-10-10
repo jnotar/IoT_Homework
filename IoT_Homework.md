@@ -42,7 +42,7 @@ _What kind of data is this device collecting? What sensors are used? Where is th
 ##### Is your data available to you? If so, what format? 
 
 - via the ZEEQ by REM-Fit app, for iOS or Android
-- You can also set up to share data with Apple HealtKit
+- You can also set it up to share data with Apple HealtKit
 
 #### 2. How far can you trace the path of the data? How far can you trace the physical development of the device, its materials and manufacture? 
 
@@ -53,8 +53,8 @@ ZEEQ Pillow -> product of REM-Fit -> division of Protect-A-Bed North America LLC
 #### Improvements
 
 - Pillow senses when you get up in the morning
-	- Sends a text message to your carpool-mates, to let them know you're on time
-	- Tweet or social media posta bout what time you got up, so you can add it to your data on fitness (i.e. in addition to posting gym selfies, now you can brag about how much sleep you're getting or how little sleep you're able to get by on)
+	- Sends a text message to your carpool-mates, to let them know you're on time (or running late)
+	- Tweet (or social media post) about what time you got up, so you can add it to your data on fitness (i.e. in addition to posting gym selfies, now you can brag about how much sleep you're getting or how little sleep you're able to get by on)
 	- Starts your awesome IoT cofeee maker, or turns on your IoT plug that coffee maker is plugged into
   - Grabs information from bus schedule and tells you how many minutes you have until the next bus
 - Customizable wake up alarms
