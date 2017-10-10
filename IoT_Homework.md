@@ -1,6 +1,8 @@
 # Homework 
 
-## The Device: [ZEEQ Pillow, by REM-Fit](https://shop.rem-fit.com/remfit-range/zeeq-pillow.asp)
+## The Device: [ZEEQ Smart Pillow, by REM-Fit](https://shop.rem-fit.com/remfit-range/zeeq-pillow.asp)
+
+![product image](https://shop.rem-fit.com/images/ZEEQ_ImageA6_L.jpg)
 
 #### 1. Summary of data ownership
 
