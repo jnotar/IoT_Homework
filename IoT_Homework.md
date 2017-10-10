@@ -44,7 +44,7 @@ _What kind of data is this device collecting? What sensors are used? Where is th
 ##### Is your data available to you? If so, what format? 
 
 - via the ZEEQ by REM-Fit app, for iOS or Android
-- You can also set it up to share data with Apple HealtKit
+- You can also set it up to share data with Apple HealtKit, and connect it to Amazon Alexa and IFTTT
 
 #### 2. How far can you trace the path of the data? How far can you trace the physical development of the device, its materials and manufacture? 
 
