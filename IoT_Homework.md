@@ -1,6 +1,6 @@
 # Homework 
 
-## The Device: ZEEQ Pillow, by REM-Fit
+## The Device: [ZEEQ Pillow, by REM-Fit](https://shop.rem-fit.com/remfit-range/zeeq-pillow.asp)
 
 #### 1. Summary of data ownership
 
@@ -10,7 +10,7 @@ _What kind of data is this device collecting? What sensors are used? Where is th
 
 - The following information comes from the website privacy policy (https://rem-fit.com/privacy-policy)
 - The device collects: 
-  - [A]n array of information about your activities will be generated through use of the device, including metrics regarding the number of steps taken, calories burned, amount of sleep and similar physical observations made possible by the device." 
+  - "[A]n array of information about your activities will be generated through use of the device, including metrics regarding the number of steps taken, calories burned, amount of sleep and similar physical observations made possible by the device." 
 - The app and company collect data on: 
   - "[N]ame, date of birth, height, weight, gender, user name and password, as well as choose one of the lifestyle types (such as active or sedentary)" 
   - "[Y]ou may enter other personal information such as personal goals, types of physical activity, and length of other physical activity"
@@ -21,6 +21,7 @@ _What kind of data is this device collecting? What sensors are used? Where is th
 ##### Sensors used to collect data
 
 ![original pillow](https://shop.rem-fit.com/images/ZEEQ_ImageG3_L.jpg)
+[Image source](https://shop.rem-fit.com/remfit-range/zeeq-pillow.asp)
 
 - microphone – to record sound, to monitor snoring
 - gyroscope - to record movement, to approximate quality of sleep
